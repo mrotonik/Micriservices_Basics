@@ -1,9 +1,6 @@
 # Micriservices_Basics
 <img src="https://github.com/mrotonik/mrotonik/blob/master/header.png" alt="альтернативный текст">
-<figure>
-  <img src="https://github.com/mrotonik/mrotonik/blob/master/edit.gif" />
-</figure>
-<h1>Мікросервіси на Python</h1>
+
 
 <p>Цей проект містить реалізацію трьох мікросервісів, які взаємодіють за допомогою HTTP-запитів. Мікросервіси написані на мові програмування Python з використанням веб-фреймворку Flask.</p>
 
@@ -19,3 +16,6 @@
 
 <p>Для встановлення та запуску цих мікросервісів вам потрібно мати встановлений Python та Flask. Ви можете клонувати цей репозиторій, перейти до каталогу кожного мікросервісу і запустити його з командного рядка за допомогою команди 'python filename.py'. Кожен мікросервіс слухає свій власний порт (5000, 5001, 5002).</p>
 
+<figure>
+  <img src="https://github.com/mrotonik/mrotonik/blob/master/edit.gif" />
+</figure>

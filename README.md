@@ -1,5 +1,5 @@
 # Micriservices_Basics
-<img src="https://github.com/mrotonik/mrotonik/blob/master/header.png" alt="альтернативный текст">
+
 
 
 <p>Цей проект містить реалізацію трьох мікросервісів, які взаємодіють за допомогою HTTP-запитів. Мікросервіси написані на мові програмування Python з використанням веб-фреймворку Flask.</p>
